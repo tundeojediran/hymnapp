@@ -1,0 +1,7 @@
+#Wed Feb 01 00:51:13 WAT 2017
+base.0=/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83ff7a6f588d2cdfdeb36c424725d9877bb25317
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ce98cfe63c7c11ad3092fc8dd31b3764ac66f95/classes.dex
+base.1=/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ce98cfe63c7c11ad3092fc8dd31b3764ac66f95
+file.0=/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83ff7a6f588d2cdfdeb36c424725d9877bb25317/classes.dex

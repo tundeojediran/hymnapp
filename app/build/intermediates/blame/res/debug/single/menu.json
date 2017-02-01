@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/about.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/about.xml"
+    },
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/search_results.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/search_results.xml"
+    },
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/hymn_list.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/hymn_list.xml"
+    },
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/hymn_item.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/hymn_item.xml"
+    },
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/appendix_item.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/appendix_item.xml"
+    },
+    {
+        "merged": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/Users/dannytee/AndroidStudioProjects/HymnBook/app/src/main/res/menu/splash.xml"
+    }
+]

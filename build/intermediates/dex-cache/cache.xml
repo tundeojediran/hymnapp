@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7ff1a4858de3640774c69b6129dd20d2919461ce">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ce98cfe63c7c11ad3092fc8dd31b3764ac66f95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b39e7a9d402dc7a84e49243888928674f37b1cde">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83ff7a6f588d2cdfdeb36c424725d9877bb25317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_51f2d072601de8fe89e0ac73a04e745d56fedbbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/libs/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/sqliteassethelper-2.0.1_8fe143675e9da6d5d74416c8a66bc68d5b2af258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_026b4bde82dfd1d48418653949a7898fe192f9fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_a7b623919dc99443eb4ddfbfab215a14baa9760c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_3401817f324c4a6d41674e62fed4dde326255f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_b5b6d5303179021103207a48531515828a47746c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_e81251e26b5a5ec890003f07e1d92b82d18cd214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ab9bef49929401a0284593d13647303d3185fd01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_ab320cf994af4422f8f31c50d62cc9c9393b07b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_53621bf62419957bf97f3bc1c6e64446d1690338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/dannytee/AndroidStudioProjects/HymnBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_be79b48d8300919f0d4b4bfb705873c30a8c49b3/classes.dex" />
+    </item>
+
+</items>
